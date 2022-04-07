@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/First.iml" filepath="$PROJECT_DIR$/.idea/First.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Python/.idea/Python.iml" filepath="$USER_HOME$/PycharmProjects/Python/.idea/Python.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/httpd-2.4.46-win64-VS16/Apache24/cgi-bin/.idea/cgi-bin.iml" filepath="$USER_HOME$/Downloads/httpd-2.4.46-win64-VS16/Apache24/cgi-bin/.idea/cgi-bin.iml" />
+    </modules>
+  </component>
+</project>
